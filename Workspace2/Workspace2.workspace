@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace2" Database="Workspace2-kanna.tags" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Project3" Path="Project3/Project3.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
+  <Project Name="variables" Path="variables/variables.project" Active="No"/>
+  <Project Name="Types" Path="Types/Types.project" Active="No"/>
+  <Project Name="sizeoperator" Path="sizeoperator/sizeoperator.project" Active="No"/>
+  <Project Name="constants" Path="constants/constants.project" Active="No"/>
+  <Project Name="variable_challge" Path="variable_challge/variable_challge.project" Active="No"/>
+  <Project Name="Array" Path="Array/Array.project" Active="No"/>
+  <Project Name="Vectors" Path="MDA/MDA.project" Active="No"/>
+  <Project Name="vector_challenge" Path="vector_challenge/vector_challenge.project" Active="No"/>
+  <Project Name="Assigoperators" Path="Assigoperators/Assigoperators.project" Active="No"/>
+  <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
+  <Project Name="MixedExpression" Path="MixedExpression/MixedExpression.project" Active="No"/>
+  <Project Name="equalityoperarotr" Path="equalityoperarotr/equalityoperarotr.project" Active="No"/>
+  <Project Name="Bounds" Path="Bounds/Bounds.project" Active="No"/>
+  <Project Name="Section8_challenge" Path="Section8_challenge/Section8_challenge.project" Active="No"/>
+  <Project Name="IfProject" Path="IfProject/IfProject.project" Active="No"/>
+  <Project Name="Shiping" Path="Shiping/Shiping.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="Excersise-Geek" Path="Excersise-Geek/Excersise-Geek.project" Active="No"/>
+  <Project Name="Conditional" Path="Conditional/Conditional.project" Active="No"/>
+  <Project Name="Forloops" Path="Forloops/Forloops.project" Active="No"/>
+  <Project Name="Whileloop" Path="Whileloop/Whileloop.project" Active="No"/>
+  <Project Name="Dowhile" Path="Dowhile/Dowhile.project" Active="No"/>
+  <Project Name="Multiplication" Path="Nestedloop/Nestedloop.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Challengeloops" Path="Challengeloops/Challengeloops.project" Active="No"/>
+  <Project Name="Basix" Path="Basix/Basix.project" Active="No"/>
+  <Project Name="Cstylestrings" Path="Cstylestrings/Cstylestrings.project" Active="No"/>
+  <Project Name="strstyle" Path="strstyle/strstyle.project" Active="No"/>
+  <Project Name="Cipherprogram" Path="Cipherprogram/Cipherprogram.project" Active="No"/>
+  <Project Name="Pyramid" Path="Pyramid/Pyramid.project" Active="No"/>
+  <Project Name="pyq" Path="pyq/pyq.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Project3" ConfigName="Debug"/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="BasicIO" ConfigName="Debug"/>
+      <Project Name="variables" ConfigName="Debug"/>
+      <Project Name="Types" ConfigName="Debug"/>
+      <Project Name="sizeoperator" ConfigName="Debug"/>
+      <Project Name="constants" ConfigName="Debug"/>
+      <Project Name="variable_challge" ConfigName="Debug"/>
+      <Project Name="Array" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="vector_challenge" ConfigName="Debug"/>
+      <Project Name="Assigoperators" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
+      <Project Name="MixedExpression" ConfigName="Debug"/>
+      <Project Name="equalityoperarotr" ConfigName="Debug"/>
+      <Project Name="Bounds" ConfigName="Debug"/>
+      <Project Name="Section8_challenge" ConfigName="Debug"/>
+      <Project Name="IfProject" ConfigName="Debug"/>
+      <Project Name="Shiping" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="Excersise-Geek" ConfigName="Debug"/>
+      <Project Name="Conditional" ConfigName="Debug"/>
+      <Project Name="Forloops" ConfigName="Debug"/>
+      <Project Name="Whileloop" ConfigName="Debug"/>
+      <Project Name="Dowhile" ConfigName="Debug"/>
+      <Project Name="Multiplication" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Challengeloops" ConfigName="Debug"/>
+      <Project Name="Basix" ConfigName="Debug"/>
+      <Project Name="Cstylestrings" ConfigName="Debug"/>
+      <Project Name="strstyle" ConfigName="Debug"/>
+      <Project Name="Cipherprogram" ConfigName="Debug"/>
+      <Project Name="Pyramid" ConfigName="Debug"/>
+      <Project Name="pyq" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Project3" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="BasicIO" ConfigName="Release"/>
+      <Project Name="variables" ConfigName="Release"/>
+      <Project Name="Types" ConfigName="Release"/>
+      <Project Name="sizeoperator" ConfigName="Release"/>
+      <Project Name="constants" ConfigName="Release"/>
+      <Project Name="variable_challge" ConfigName="Release"/>
+      <Project Name="Array" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="vector_challenge" ConfigName="Release"/>
+      <Project Name="Assigoperators" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
+      <Project Name="MixedExpression" ConfigName="Release"/>
+      <Project Name="equalityoperarotr" ConfigName="Release"/>
+      <Project Name="Bounds" ConfigName="Release"/>
+      <Project Name="Section8_challenge" ConfigName="Release"/>
+      <Project Name="IfProject" ConfigName="Release"/>
+      <Project Name="Shiping" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="Excersise-Geek" ConfigName="Release"/>
+      <Project Name="Conditional" ConfigName="Release"/>
+      <Project Name="Forloops" ConfigName="Release"/>
+      <Project Name="Whileloop" ConfigName="Release"/>
+      <Project Name="Dowhile" ConfigName="Release"/>
+      <Project Name="Multiplication" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Challengeloops" ConfigName="Release"/>
+      <Project Name="Basix" ConfigName="Release"/>
+      <Project Name="Cstylestrings" ConfigName="Release"/>
+      <Project Name="strstyle" ConfigName="Release"/>
+      <Project Name="Cipherprogram" ConfigName="Release"/>
+      <Project Name="Pyramid" ConfigName="Release"/>
+      <Project Name="pyq" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

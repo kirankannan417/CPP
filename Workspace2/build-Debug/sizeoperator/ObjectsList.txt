@@ -1,0 +1,1 @@
+../build-Debug/sizeoperator/main.cpp.o   

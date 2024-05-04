@@ -1,0 +1,1 @@
+../build-Debug/Shiping/main.cpp.o   

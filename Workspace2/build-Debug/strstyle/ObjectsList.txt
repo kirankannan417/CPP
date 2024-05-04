@@ -1,0 +1,1 @@
+../build-Debug/strstyle/main.cpp.o   
