@@ -1,2 +1,2 @@
 # CPP
-CPP Course
+Excersise programs during course
